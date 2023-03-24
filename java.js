@@ -19,8 +19,3 @@ for(var x = 0; x <links.length;x++){
         menu_visible = false;
     }
 }
-
-//detecta el scrolling del mouse para aplicar la animación de la barra
-window.onscroll = function(){
-    efectoHabilidades();
-}
